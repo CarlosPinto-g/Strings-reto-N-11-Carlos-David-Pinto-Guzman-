@@ -4,7 +4,7 @@
 
 ### 1. Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
 
-##**Endswith:** 
+## Endswith: 
 Este método verifica si una cadena termina con un cierto sufijo (suffix).Devuelve True si la cadena termina con ese sufijo y False si no.
 
 ## Ejemplo: 
