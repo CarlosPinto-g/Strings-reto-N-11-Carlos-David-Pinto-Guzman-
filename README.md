@@ -96,10 +96,10 @@ print("PYTHON3".isupper())  # True (los números no afectan el resultado)
 
 ##Resumen:
 ```pseudocode
-Método          ¿Qué verifica?
+Método           ¿Qué verifica?
              
-endswith()	     Si la cadena termina con un sufijo
-startswith()	   Si la cadena comienza con un prefijo
+endswith()	      Si la cadena termina con un sufijo
+startswith()	    Si la cadena comienza con un prefijo
 isalpha()	       Si solo contiene letras (sin espacios ni números)
 isalnum()	       Si solo contiene letras y números (sin espacios ni símbolos)
 isdigit()	       Si solo contiene números (dígitos)
@@ -109,4 +109,11 @@ islower()	       Si todas las letras están en minúscula
 isupper()	       Si todas las letras están en mayúscula
 ```
 
+### 2. Procesar el archivo y extraer:
+
+## .Cantidad de vocales
+## .Cantidad de consonantes
+## .Listado de las 50 palabras que más se repiten
+
+(Maestro, no entendí el punto número 2 )
 
